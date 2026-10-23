@@ -1,0 +1,8 @@
+Push()
+First enqueue x to q2
+Next dequeue everything ofrom q1 to q2
+dequeue an item from q1 and return item
+
+time complexity
+push() O(1)
+pop O(n)
